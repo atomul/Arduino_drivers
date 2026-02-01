@@ -1,0 +1,9 @@
+- `CH34x_Install_Windows_v3_4_from_sparkz.zip`
+  - tested and worked
+  - `https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbThGOVVkWnhCSkhDQk5hZ2dyUnJ2N3BKOFFvZ3xBQ3Jtc0trYXRPZnljZXhJUGplWml1V3JvWFBsX1V5VXFqYVBSSzBUZHljSWZfTDdWeFM0RW41Z3RWalNBZWs2WnpuSlh3RWI2dDJ4cmMwcGRnWUMxaWlRd1EyTkZOdUZWZ3NnRkp3STVvSmFqbmhfUk9mRmFMbw&q=https%3A%2F%2Fsparks.gogo.co.nz%2Fassets%2F_site_%2Fdownloads%2FCH34x_Install_Windows_v3_4.zip&v=vRFQDaiqTmI`
+- `CH341SER_sigmanortec.EXE` / `Windows-CH340-Driver_from_sigmanortec.zip`
+  - not tested
+  - `https://sigmanortec.ro/Placa-dezvoltare-NANO-v3-AtMega-328p-compatibil-Arduino-pini-nelipiti-p177264037`
+- `CH341SER_from_wch-ic.EXE`
+  - not tested
+  - `https://www.wch-ic.com/downloads/CH341SER_EXE.html`
